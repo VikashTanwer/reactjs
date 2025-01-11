@@ -1,11 +1,11 @@
 import React from 'react'
 
-function App() {
+function Contect() {
   return (
     <div>
-      ram ram ji
+      contact
     </div>
   )
 }
 
-export default App
+export default Contect
